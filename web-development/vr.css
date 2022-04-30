@@ -168,5 +168,13 @@ h1 {
     text-align: center;
   }
 .softwares {
+    text-align: center;
     list-style-type: square;
   }
+.roundcorner {
+    border-radius: 25px;
+}
+.softwares dl {
+    font-size: 20px;
+}
+
